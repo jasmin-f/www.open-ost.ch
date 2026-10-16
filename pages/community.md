@@ -9,7 +9,7 @@ redirect_from:
 
 ## Werde Mitglied!
 
-Du möchtest **Open Source an der OST** fördern oder ein nicht offiziell unterstützes Betriebssystem an der OST nutzen?
+Du möchtest **Open Source an der OST** fördern oder ein nicht offiziell unterstütztes Betriebssystem an der OST nutzen?
 Dann bist du bei uns richtig.
 
 Mit deiner Mitgliedschaft ...
@@ -35,7 +35,7 @@ Leider findet der Treffpunkt derzeit nicht regelmässig statt. Solltest du Inter
 
 Wir sammeln Ideen für Veranstaltungen, Events, Flyer etc. und verwirklichen diese in kleineren Gruppen. Damit ist der Aufwand für die Mitglieder abschätzbar und zeitlich begrenzt - wir wollen schliesslich keine Last fürs Studium sein. Wo wir deine Unterstützung brauchen, z.B. wenn die Untervereine der OST vorgestellt werden, erfährst du über den Newsletter. Natürlich kannst du auch eigene Ideen mit einbringen!
 
-Du kannst konkret an Projekten wie der [Website](https://github.com/openost/www.open-ost.ch/issues) oder dem [open\HSR-Connect](https://github.com/openost/connect/issues) mitarbeiten, in dem du eines aus vielen Tickets, mit dem Label `help wanted`, auf GitHub in Angriff nimmst. Unklarheiten ungehemmt ins Ticket schreiben.
+Du kannst konkret an Projekten wie der [Website](https://github.com/openost/www.open-ost.ch/issues) oder dem [studentenportal](https://github.com/studentenportal/web/issues) mitarbeiten, in dem du eines aus vielen Tickets, mit dem Label `help wanted`, auf GitHub in Angriff nimmst. Unklarheiten ungehemmt ins Ticket schreiben.
 
 Wir freuen uns auch über kleinere Beiträge! Das kann die kurze Rechtschreibprüfung einer Unterseite sein, Fehler in den Dokus melden, eine Idee für eine Veranstaltung, Unterseite etc. aufschreiben usw.
 
@@ -86,7 +86,7 @@ Pull Requests für die Statuten werden an der nächsten GV als Änderungsantrag 
 
 ### Kontakt
 
-Falls du dich für den **open\OST** interessierst, freuen wir uns immer über ein E-Mail unter <info@open-ost.ch>. Für den Austausch miteinand und Benachrichtigungen zu Events besuche unseren [Matrix kanal](https://matrix.to/#/#oss_meetup:matrix.org).
+Falls du dich für den **open\OST** interessierst, freuen wir uns immer über ein E-Mail unter <info@open-ost.ch>. Für den Austausch und Benachrichtigungen zu Events besuche unseren [Matrix kanal](https://matrix.to/#/#verein:open-ost.ch).
 
 ### Sponsoring & Kontoinformationen
 
